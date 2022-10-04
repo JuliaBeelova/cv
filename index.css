@@ -51,7 +51,6 @@ a:hover {
 	text-decoration: none;
 	text-transform: initial;
 }
-/*Box Model */
 
 .container {
 	max-width: 750px;
@@ -59,25 +58,6 @@ a:hover {
 	padding-top: 30px;
 
 }
-/*.social {
-	background: green;
-	padding: 15px;
-	border: 5px solid red;
-	border-bottom-style: dotted;
-	border-top-width: 15px;
-	border-left-color: blue;
-	border-radius: 20px;
-} */
-
-/*.box-model > div {
-	float: left;
-	background: black;
-	height: 200px;
-	border: 4px solid blue;
-	width: 25%;
-	box-sizing: border-box;
-} */
-
 
 .bg-yellow {
 	background: #fff9dc;
